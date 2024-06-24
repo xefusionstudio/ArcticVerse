@@ -12,6 +12,7 @@ dist
 dist-ssr
 *.local
 GitPush.txt
+impnote.txt
 
 # Editor directories and files
 .vscode/*
