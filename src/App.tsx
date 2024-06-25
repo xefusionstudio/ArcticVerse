@@ -7,15 +7,15 @@ function App() {
      alt="ArcticVerse.png"/> */}
      {/* https://via.placeholder.com/45 */}
     <div id='AVlogo'>
-    <img src="/public/ArcticWO.png" alt="ArcticVerse.png" width={"120px"}/>
+    <img src="/ArcticWO.png" alt="ArcticVerse.png" width={"120px"}/>
     </div>
 
     <div id="social">
       <p id="SP">Our social links:</p>
 
-      <section id="DC" className='Socialblock'><a href="https://discord.gg/zXSqhHSMst"><img src="/public/DC.png" alt="discord.png" width={"25px"}/> Discord </a></section>
+      <section id="DC" className='Socialblock'><a href="https://discord.gg/zXSqhHSMst"><img src="/DC.png" alt="discord.png" width={"25px"}/> Discord </a></section>
 
-      <section id="IG" className='Socialblock'><a href="https://www.instagram.com/arctic_verse?igsh=cHQzMnR3NWp6d2pu"><img src="/public/IG.png" alt="Instagram.png" width={"25px"}/> Instagram </a></section>
+      <section id="IG" className='Socialblock'><a href="https://www.instagram.com/arctic_verse?igsh=cHQzMnR3NWp6d2pu"><img src="/IG.png" alt="Instagram.png" width={"25px"}/> Instagram </a></section>
     </div>
     
     <h2 id="h2-1">Welcome to:</h2>
