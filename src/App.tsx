@@ -13,7 +13,7 @@ function App() {
     <div id="social">
       <p id="SP">Our social links:</p>
 
-      <section id="DC" className='Socialblock'><a href="https://discord.gg/zXSqhHSMst"><img src="/DC.png" alt="discord.png" width={"25px"}/> Discord </a></section>
+      <section id="DC" className='Socialblock'><a href="https://discord.gg/NMXXEB7gdy"><img src="/DC.png" alt="discord.png" width={"25px"}/> Discord </a></section>
 
       <section id="IG" className='Socialblock'><a href="https://www.instagram.com/arctic_verse?igsh=cHQzMnR3NWp6d2pu"><img src="/IG.png" alt="Instagram.png" width={"25px"}/> Instagram </a></section>
     </div>
@@ -26,7 +26,7 @@ function App() {
 
     <p id="p1" className='boxP'>~&gt; Hey Players this is the new starting for the brand new mincraft server <span id="AV">"Arctic Verse"</span> with tons of cool minigames</p>
     
-    <p id="p2"className='boxP'>~&gt; This will be the best low latency server in Aisa</p>
+    <p id="p2"className='boxP'>~&gt; This will be the best low latency server in Asia</p>
     
     <p id="p3"className='boxP'>~&gt; This server will support both java and bedrock or pe versions of Minecraft</p>
     
