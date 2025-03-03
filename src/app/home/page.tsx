@@ -1,21 +1,17 @@
-import "./scss/main.scss";
+'use client'
+import "./../scss/main.scss";
 import Link from "next/link";
-import Navbar from "./components/Navbar/Navbar";
-import RegisterBtn from "./components/registerbtn/RegisterBtn";
-import LoginBtn from "./components/loginbtn/LoginBtn";
-import AnimatedInput from "./components/Animated/AnimatedInput";
+import Navbar from "./../components/Navbar/Navbar";
+import AnimatedInput from "./../components/Animated/AnimatedInput";
 import ArrowOutwardIcon from "@mui/icons-material/ArrowOutward";
 export default function Home() {
+    
   return (
     <>
       <Navbar />
       <main>
         <h1 id="Welcome-header">Welcome To Arctic verse</h1>
-        <h4 id="Login-Text">Please Login to have more fun :)</h4>
-        <section id="Login-register-section">
-          <RegisterBtn />
-          <LoginBtn />
-        </section>
+        <h2 id="YourGamerTag">GamerTag</h2>
         <div className="SZBX1"></div>
         <AnimatedInput
           fullText="play.arcticverse.in"
